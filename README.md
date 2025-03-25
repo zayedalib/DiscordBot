@@ -3,12 +3,6 @@
   <p>⚡ A Multipurpose Discord Bot</p>
 </div>
 
-<h1 align="center">
-	<a href="https://github.com/SecondBeta/HayasakaBot">
-		<img src="https://i.ibb.co/hMrbNRs/hayasaka.png" width="200">
-	</a>
-</h1>
-
 ## 🎶 Play Music from YouTube and SoundCloud
 Features:
 - Autoplay (plays similar songs)
